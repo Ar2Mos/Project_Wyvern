@@ -1,0 +1,469 @@
+[33mcommit 240c2a77ff90b165851a90d9892f89c57af0e68c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Mar 14 20:24:20 2025 +0700
+
+    Ignore large binary files
+
+[33mcommit d8be3757b356170ce79b0eac94409f3262ff54cd[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Mar 14 20:22:34 2025 +0700
+
+    Add Rouge-like & Fixed Engine
+
+[33mcommit 38e6888a6f5e4293281926c971d76c4fe5a61468[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Mar 14 20:17:01 2025 +0700
+
+    Add Rogue-like and Fixed Build
+
+[33mcommit da5b66fafba9d7ff63fb65fb81185cd0b55f70a0[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Mar 14 20:09:53 2025 +0700
+
+    Remove Test Map
+
+[33mcommit a58484bf59b3048b906983031c1a38541775e6c8[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Mar 14 19:50:59 2025 +0700
+
+    Add Rouge-like & Fixed Engine
+
+[33mcommit 67fbe3caedc4fa36a2989f6a99aac9c4a34f6275[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Mar 14 19:48:18 2025 +0700
+
+    Add Rouge-like & Fixed Engine
+
+[33mcommit 4f36e3924036403522d38b354207b8712ed377d3[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Mar 14 19:42:25 2025 +0700
+
+    Add Rouge-like & Fixed Engine
+
+[33mcommit ce375868c98a54cc2cc791a29176352d2013d0ea[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tormai00 <tormaitormaiwtf@gmail.com>
+Date:   Thu Mar 13 23:40:40 2025 +0700
+
+    add sprite
+    
+    knight  [ color+shadow, all animation]
+    skeleton [ color+shadow, all animation]
+
+[33mcommit 99d16fa6b3e78f3ce14752e4283baee1419d3883[m
+Author: Tormai00 <tormaitormaiwtf@gmail.com>
+Date:   Fri Feb 28 23:27:50 2025 +0700
+
+    add sprite
+    
+    add shadow - all thief
+    add base color - knight  [ walk f, b ,l ,r ] [ idle l,r ], boss [attack l,r ] [ idle l.r ]
+    add base white -knight [ attack l,r ] [ knockback l,r ] [ dead l,r ]
+
+[33mcommit c5c63537d71db7924addf2b5f77cb9afb43c8fc5[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Feb 28 17:47:32 2025 +0700
+
+    Fixed Dungeon bugs
+
+[33mcommit 9556b43adc18061432593fa57ec63d6333f422dc[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Feb 28 15:15:30 2025 +0700
+
+    Add Camera Opacity Masked
+
+[33mcommit 964cc684757c4673ba03c6b76d3c16b1f9481ef7[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Wed Feb 26 14:57:40 2025 +0700
+
+    Update Room Level Design
+
+[33mcommit b89f37187d91dc890ce192af53b5c07a938b0a91[m
+Merge: 4b836dc 142d46c
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sun Feb 23 13:27:25 2025 +0700
+
+    Merge pull request #7 from Ar2Mos/Test
+    
+    Shop_and_Flag
+
+[33mcommit 142d46c3b8c2d52f5d2aa2dcb3a817c3cf82c579[m
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Sat Feb 22 22:15:09 2025 +0700
+
+    Shop_and_Flag
+
+[33mcommit 4b836dcd1bd08a19af9c43f526cd9fbbb7a36b3f[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Sat Feb 22 17:14:37 2025 +0700
+
+    Add UI & Fixed
+
+[33mcommit a58a40aaa0185dd4c22da406618c1fe1020213cd[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Feb 21 17:21:53 2025 +0700
+
+    Completed Game Loop + Popup Damage
+
+[33mcommit 750b60e4647b15d9466560c3a056265e8d27567c[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Wed Feb 19 17:35:12 2025 +0700
+
+    Update Animation and Boss
+
+[33mcommit 4273fe564466c1eaeb2021926861ce12a950c80b[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Wed Feb 19 12:47:52 2025 +0700
+
+    Map Seed And Loading Completed
+
+[33mcommit 08683b749ba11434e672ebadc63ea13bc7d098bf[m
+Merge: 302a9ca 492fd0a
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Mon Feb 17 17:23:10 2025 +0700
+
+    Merge branch 'main' of https://github.com/Ar2Mos/Project_Wyvern
+
+[33mcommit 302a9ca4bea727949faf69c812dedf1264be5014[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Mon Feb 17 17:22:48 2025 +0700
+
+    Fixed Light Texture And Camera Angle
+
+[33mcommit 492fd0a8546b9901834d9f066935cf7518491bc6[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Feb 15 00:43:37 2025 +0700
+
+    Update README.md
+
+[33mcommit b933b37161a4b5a25361adb2789f9e242cf4ead9[m
+Author: Tormai00 <tormaitormaiwtf@gmail.com>
+Date:   Fri Feb 14 15:39:34 2025 +0700
+
+    add sprite
+    
+    green slime [ +attack_L,R add highlight +knockback]
+    blue slime [ +attack L, R +knockback +dead +idle +walk L,R]
+    Boss [+idle +attack1]
+
+[33mcommit a3eecdff41058e9f74277259ed4c2b69132d6464[m
+Merge: f68b055 6f45dea
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Fri Feb 14 12:11:25 2025 +0700
+
+    Merge pull request #6 from Ar2Mos/Test
+    
+    New_Chest_and_Floor
+
+[33mcommit 6f45deada4a7630e9b3556207d20f0e7a739d7b3[m
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Fri Feb 14 12:08:19 2025 +0700
+
+    New_Chest_and_Floor
+
+[33mcommit f68b05546e79dd39800a63efec829862f4d5f7a4[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Thu Feb 13 17:26:44 2025 +0700
+
+    Added Chest & Fixed Camera
+
+[33mcommit f23b642b6d29d7b57a07739c1d29bb7442f327b2[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Sun Feb 9 18:27:38 2025 +0700
+
+    Fixed All Texture / Random Bug
+
+[33mcommit dfdd9a94fc58a565f7d570854c7a5e082f7a5090[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Sun Feb 9 15:36:27 2025 +0700
+
+    Add NPC & Dungeon
+
+[33mcommit ad4367b484449b1beb0171b7ded0d5379e83a6ee[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Sun Feb 9 12:55:12 2025 +0700
+
+    Fixed Lighting & Map
+
+[33mcommit df218fe120eca8ec6390dba803e1d3d4a543192e[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Thu Feb 6 17:57:52 2025 +0700
+
+    Added & Fixed Lighting
+
+[33mcommit 7c90a599e97645bcdc14c4e011e6fc262b740fb2[m
+Merge: 9ca555c aeda043
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Feb 1 17:39:16 2025 +0700
+
+    Merge pull request #5 from Ar2Mos/Test
+    
+    Test
+
+[33mcommit aeda0433b658ae36e71d3c52854aa8f3e59cc307[m
+Merge: 5f7aa1c ec10356
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Sat Feb 1 17:35:20 2025 +0700
+
+    Test Fix
+
+[33mcommit 9ca555cdf8377e0167ab7931e4a1ab819591e56e[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Feb 1 09:16:13 2025 +0700
+
+    Update Presentation in README.md
+
+[33mcommit 5f7aa1c6eeb31cdcdc159bc8be17681a647601bc[m
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Fri Jan 31 23:11:21 2025 +0700
+
+    add_OldPole_and_SetMap
+
+[33mcommit ec10356503607a278a5a4a1af740b6dbc4d1aa88[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Jan 31 21:36:09 2025 +0700
+
+    fixed UI and Mapping
+
+[33mcommit febe644982c3adf5c12c4a1bf510dcf7f3242cbd[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Thu Jan 30 19:36:32 2025 +0700
+
+    Added/Fixed Icon
+
+[33mcommit e5c0cd8960afcd572bd46867de8c6166eb58f407[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Thu Jan 30 16:59:23 2025 +0700
+
+    Fixd bug,Can play
+
+[33mcommit 4db0408822a1d98f1ad60b79daa77baaa81e5979[m
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Wed Jan 29 23:36:15 2025 +0700
+
+    Add_TextureBorken_Pillar_And_Fix_TextureWall_And_Lamp
+
+[33mcommit efbc5c477e6d579b5be4720e923980f8989d36ba[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Tue Jan 28 20:18:27 2025 +0700
+
+    Fix Spawn Bug/Battle's Bug
+
+[33mcommit 2d6a1c03070f9bcfede4e09785d1db12485b689d[m
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Tue Jan 28 16:00:33 2025 +0700
+
+    Fix_Bug_addModel_Texture
+
+[33mcommit 336050abccfa2e2d2acab069c796c6cce6b2da4c[m
+Merge: a31ad2c e3d7dfe
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Tue Jan 28 15:43:00 2025 +0700
+
+    Fix bug battle area
+
+[33mcommit a31ad2c72e10b0571e50c51b01fa2bfe62009c99[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Tue Jan 28 15:39:26 2025 +0700
+
+    Fix bug battle area
+
+[33mcommit e3d7dfe87f451c13300b80144ca33ef157c259d4[m
+Merge: 053cec5 c12a2b7
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Tue Jan 28 15:29:53 2025 +0700
+
+    New Merge to Fix
+
+[33mcommit 053cec5b73ea8258f8bc85baa40d788744023c2c[m
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Tue Jan 28 01:06:39 2025 +0700
+
+    Model_Fix_and_Add_Texture
+
+[33mcommit c12a2b7d123391bfb42c41d65901370263eed86c[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Thu Jan 23 18:39:35 2025 +0700
+
+    Add Theif & Slime Animation
+
+[33mcommit 8a84799e92147a5069e71cea99c9d348056583c6[m
+Merge: a192a55 aa3b155
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Thu Jan 23 15:10:53 2025 +0700
+
+    Merge branch 'main' of https://github.com/Ar2Mos/Project_Wyvern
+
+[33mcommit a192a55f5b6808b239e1bdb3eb54245c3b03d526[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Thu Jan 23 15:09:36 2025 +0700
+
+    AAdd procedural room
+
+[33mcommit aa3b15512cc7c56c61495aa193f25343f672c4af[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Jan 18 00:00:00 2025 +0700
+
+    Update README.md
+    
+    Update #2 Presentation 18/1/65
+
+[33mcommit c247d83c73f8c748cc633676c990fb99d969a79f[m
+Author: Tormai00 <tormaitormaiwtf@gmail.com>
+Date:   Fri Jan 17 21:50:40 2025 +0700
+
+    thief sprite
+    
+    Walk (front, Back, L, R)
+    Attack (L, R)
+    Idle (L)
+
+[33mcommit 86172e0e64253ede7ff45c65f113d7c8a5fcaa95[m
+Merge: fa973b9 2cff9a7
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Fri Jan 17 18:04:27 2025 +0700
+
+    Merge pull request #4 from Ar2Mos/UX/UI_Fixed
+    
+    Prototype 18/1/25
+
+[33mcommit 2cff9a7162ae0a1c851afa654288fe27653c686d[m[33m ([m[1;31morigin/UX/UI_Fixed[m[33m, [m[1;32mUX/UI_Fixed[m[33m)[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Jan 17 18:00:59 2025 +0700
+
+    Prototype 18/1/25
+
+[33mcommit fa973b9ae8d317f3dfe7cecc4fd73bf6c8feca76[m
+Author: Tormai00 <tormaitormaiwtf@gmail.com>
+Date:   Fri Jan 17 16:08:26 2025 +0700
+
+    Sprite Enemy Slime
+    
+    attack(L,R)
+    idle
+    walk(L,R)
+    dead
+
+[33mcommit 823a21f13ad126f576a38b207fc52c6669eb5eb8[m
+Author: 651310127 <pewsumlea_r@silpakorn.edu>
+Date:   Fri Jan 17 13:02:54 2025 +0700
+
+    Modeling Notexture
+
+[33mcommit 9626c9b966bcabc83228879f4e9fa53b7266040c[m
+Merge: 5b91d12 0e85800
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Wed Jan 15 18:42:16 2025 +0700
+
+    Merge pull request #3 from Ar2Mos/UX/UI_Showed
+    
+    Ux/UI showed
+
+[33mcommit 0e85800f437db8b9d253d7395d1f8adce62dceb9[m[33m ([m[1;31morigin/UX/UI_Showed[m[33m, [m[1;32mUX/UI_Showed[m[33m)[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Wed Jan 15 18:27:51 2025 +0700
+
+    UX / UI Can showed + Still bug
+
+[33mcommit e151e8adad429a695ec69e805f258a5e5ef82853[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Wed Jan 15 18:25:48 2025 +0700
+
+    UX/UI can showed + Still Bug
+
+[33mcommit 5b91d12a2a73fedbe450243ad17dc1d563d725cc[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Thu Jan 2 15:57:42 2025 +0700
+
+    Update README.md
+
+[33mcommit b76135358c5390d5d533e3b98f3ec5a59c4f3a1e[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Thu Jan 2 15:57:24 2025 +0700
+
+    Update Presentation in README.md
+
+[33mcommit f91220970edc214891c517a57993840caa1c96d8[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Fri Dec 27 18:01:43 2024 +0700
+
+    Add Action, Do Character next
+
+[33mcommit f7ef2cd2ed188f470b41a5319cc96ff3386695a2[m[33m ([m[1;31morigin/Add_Action_System[m[33m, [m[1;32mAdd_Action_System[m[33m)[m
+Merge: 3a6b97a e14da9e
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Sun Dec 22 18:45:10 2024 +0700
+
+    Merge branch 'main' of https://github.com/Ar2Mos/Project_Wyvern
+
+[33mcommit 3a6b97afffe6ed67650ab7abbfbbf06d2877e588[m
+Merge: 3b4f891 b8d4340
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Sun Dec 22 18:39:07 2024 +0700
+
+    Merge branch '651310124' of https://github.com/Ar2Mos/Project_Wyvern
+
+[33mcommit e14da9e049b0a43b3cbcb1e549a4007873a4baae[m
+Merge: 83a047d b8d4340
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sun Dec 22 18:28:03 2024 +0700
+
+    Merge pull request #2 from Ar2Mos/651310124
+    
+    Update Name
+
+[33mcommit b8d4340e4bc2345b7eb7c6f1d9cd7627a576b630[m[33m ([m[1;31morigin/651310124[m[33m)[m
+Merge: 151eae4 83a047d
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sun Dec 22 18:25:10 2024 +0700
+
+    Merge pull request #1 from Ar2Mos/main
+    
+    Update Game's name README.md
+
+[33mcommit 3b4f8916eea780f49a67bbad47535c08cb34f27c[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Sun Dec 22 18:17:04 2024 +0700
+
+    Add Stats and Enemies
+
+[33mcommit 83a047d4ebd29c618a88c54e829a6a5616f5f771[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Dec 21 22:41:44 2024 +0700
+
+    Update Game's name README.md
+
+[33mcommit 151eae4e14aea4efdb59fa8d69edd397373dc63a[m[33m ([m[1;32mcheckout[m[33m, [m[1;32madd_Status_and_Enemies[m[33m, [m[1;32m651310124[m[33m)[m
+Author: 651310124 <cmos9850@gmail.com>
+Date:   Wed Dec 18 17:36:15 2024 +0700
+
+    Upload Prototype Project
+
+[33mcommit 1c7ddd1a7be669b39e9c7aa2de784df509218b06[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Wed Dec 18 17:25:11 2024 +0700
+
+    Update .gitignore
+
+[33mcommit 9484ca1f49a736624c145ad90051aa08ec0008e3[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Wed Dec 18 16:31:22 2024 +0700
+
+    Update README.md
+
+[33mcommit 7214e5a74229f4dbc2a7796951b852d39bf6c841[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Dec 14 16:21:11 2024 +0700
+
+    Update README.md
+
+[33mcommit 563ba6aa0ea83c080fe5db08c388f51a25828f8d[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Dec 14 16:20:45 2024 +0700
+
+    Create README.md
+
+[33mcommit aa49aa4665971244b8247ff9c47f5b3f015a229d[m
+Author: Ar2Mos <83350094+Ar2Mos@users.noreply.github.com>
+Date:   Sat Dec 14 16:00:09 2024 +0700
+
+    Initial commit
